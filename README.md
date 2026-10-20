@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Graduate%20Researcher-blue?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/University-Al--Azhar%20University-green?style=flat-square" alt="University">
-  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Embedded%20Systems-orange?style=flat-square" alt="Specialization">
+  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Software%20Engineering-orange?style=flat-square" alt="Specialization">
 </p>
 
 ---
