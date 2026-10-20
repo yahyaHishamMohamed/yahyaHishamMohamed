@@ -32,4 +32,4 @@ I am passionate about bridging the gap between rigorous mathematical formulation
 * **Email:** [yahya.h.resarcher@gmail.com](mailto:yahya.h.resarcher@gmail.com)
 * **LinkedIn:** [linkedin.com/in/yahyahishammohamed](https://www.linkedin.com/in/yahyahishammohamed)
 * **ORCID Profile:** [orcid.org/0009-0009-6369-3442](https://orcid.org/orcid.org/0009-0009-6369-3442)
-* **YouTube Channel:** [Academic & Engineering Tutorials](https://www.youtube.com/@yahyahishammohamed)
+* **YouTube Channel:** [Academic & Engineering Tutorials](www.youtube.com/@YahyaResearcherCS)
